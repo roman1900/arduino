@@ -1,3 +1,5 @@
+[Setup Instructions](https://discover.hubpages.com/technology/How-to-Setup-UNO-R3-WiFi-ATmega328P-ESP8266)
+
 [source](https://temperosystems.com.au/products/unowifi-r3-atmega328pesp8266-32mb-flash-usb-ttl-ch340g-micro-usb/)
 # Features:
 UNO+WiFi R3 ATmega328P+ESP8266 32Mb flash USB-TTL CH340G Micro-USB
